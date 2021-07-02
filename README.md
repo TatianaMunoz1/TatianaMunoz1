@@ -1,5 +1,5 @@
 <tb>
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 world! <h1>
+<h1 align="center"> Hello world! <h1>
 
 <div align="center">
 <a href="https://www.facebook.com/taatii.munoz/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
