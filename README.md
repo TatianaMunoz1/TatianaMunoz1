@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-tatianasmunoz@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tatianasmunoz@gmail.com" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Tati Munoz%232526-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tati %232526-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
 
 </p>
