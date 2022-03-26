@@ -33,7 +33,6 @@
 - 👩🏻‍💻 Studying Computer Systems in Universidad Nacional de Lanus, Argentina.
 - 🌱 Currently im studying to become a "Certified Tech Developer", Two year career, thought and designed by Mercado Libre and Globant along with Digital House.
 - 🔒 Working in Cyber Security, studing to become a specialist in Microsoft 
-- 🖌 Also im doing the Designer UX/UI career in Coderhouse
 - 💪🏻 Future goals: Learn more technologies
 - ⚡ Fun fact: Big fan of Pixel Art 👾
 -------
